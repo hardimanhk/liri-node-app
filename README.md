@@ -19,4 +19,10 @@
 
 * The images below show the commands and responses in terminal
 
-![alt text](images/liriImg1.png);
+![alt text](images/liriImg1.png)
+
+![alt text](images/liriImg2.png)
+
+![alt text](images/liriImg3.png)
+
+![alt text](images/liriImg4.png)
