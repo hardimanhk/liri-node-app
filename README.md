@@ -16,3 +16,7 @@
 * To use this feature create a text file called "random.txt" and pass in the argument do-what-it-says at the command line
 * The structure within the text file should look like this:
     * spotify-this-song,"Don't Look Back In Anger"
+
+* The images below show the commands and responses in terminal
+
+![alt text](images/liriImg1.png);
